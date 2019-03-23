@@ -1,4 +1,4 @@
-This is a task from Operating Systems course.
+This is a task for Operating Systems course.
 
 ## Input
 
